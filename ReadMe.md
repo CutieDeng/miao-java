@@ -1,4 +1,4 @@
-# $Miao-lang$  Java Version
+# Miao-lang  Java Version
 
 > 这是一个可以将人类语言翻译成喵语言的程序。
 >
@@ -8,7 +8,7 @@
 
 ## DEFINITION
 
-$Miao-lang$ is a converter of the text information. It can transform the visible text to some invisible characters, and mix them with the specific characters to integrate to a new visible text information. 
+Miao-lang is a converter of the text information. It can transform the visible text to some invisible characters, and mix them with the specific characters to integrate to a new visible text information. 
 
 
 
@@ -24,8 +24,8 @@ $Miao-lang$ is a converter of the text information. It can transform the visible
 
 - **SPEED**  Accelerate the speed and reduce the time cost when encode the words. 
 - **COMPLEX**  Prepare more individualized methods to make the encoding way hard to hack. 
-- **SECURITY**  Add some time limited altorithms and the key matching tests to strengthen the security of the information. 
-- **LIGHTWEIGHT** Make use of the *Miao* language, corresponding to the origin information so as to reduce the length of the encodeing sentences, and the size of it, too. 
+- **SECURITY**  Add some time limited algorithms, and the key matching tests to strengthen the security of the information. 
+- **LIGHTWEIGHT** Make use of the *Miao* language, corresponding to the origin information to reduce the length of the encoding sentences, and the size of it, too. 
 - **ROBUST**  Avoid the unexpected situations that would lead the system to collapse. 
 - **ERROR-PREVENTION**  Design a new structure to store and express the content, which can repair itself when being transformed by error or hardly happen to transmission errors. 
 
@@ -45,7 +45,12 @@ There are some emergent problems waiting to fix:
 2. The *Miao* can be added with some different punctuations, which can make the emotions abundant, and also can extract the information efficiently.
 3. Encode the ASCII table. 
 
+### 2021-05-15
+
 #### Add the ReadMe.md
 
 **Add the file which you're reading now. **
 
+#### Correct some syntax errors.
+
+Correct some syntax errors in ReadMe.
