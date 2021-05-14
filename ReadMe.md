@@ -54,3 +54,6 @@ There are some emergent problems waiting to fix:
 #### Correct some syntax errors.
 
 Correct some syntax errors in ReadMe.
+
+Examine and ensure the correct updating time. 
+
